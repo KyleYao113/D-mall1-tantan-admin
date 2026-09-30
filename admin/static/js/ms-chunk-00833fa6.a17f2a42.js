@@ -1,9 +1,9 @@
 /*!
- *  build: ShopSuite
+ *  build: Shop
  *  copyright: shopsuite.cn
- *  time: 2026-09-30 23:49:52
+ *  time: 2026-10-01 00:17:24
  */
-(self["webpackChunkShopSuite"]=self["webpackChunkShopSuite"]||[]).push([[81],{74179:function(t,e,n){"use strict";n.d(e,{C6:function(){return i}});
+(self["webpackChunkShop"]=self["webpackChunkShop"]||[]).push([[81],{74179:function(t,e,n){"use strict";n.d(e,{C6:function(){return i}});
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
 

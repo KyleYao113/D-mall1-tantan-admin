@@ -1,9 +1,9 @@
 /*!
- *  build: ShopSuite
+ *  build: Shop
  *  copyright: shopsuite.cn
- *  time: 2026-09-30 23:49:52
+ *  time: 2026-10-01 00:17:24
  */
-(self["webpackChunkShopSuite"]=self["webpackChunkShopSuite"]||[]).push([[579],{29950:function(e,t,i){"use strict";var r=i(12660),s=i.n(r),a=i(20641),n=i(50953);
+(self["webpackChunkShop"]=self["webpackChunkShop"]||[]).push([[579],{29950:function(e,t,i){"use strict";var r=i(12660),s=i.n(r),a=i(20641),n=i(50953);
 /*!
  * VueQuill @vueup/vue-quill v1.5.5
  * https://vueup.github.io/vue-quill/
